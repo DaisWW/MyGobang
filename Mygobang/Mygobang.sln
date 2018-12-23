@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mygobang", "Mygobang\Mygobang.csproj", "{24796698-6C6D-421C-8843-B4FE2CAF673D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGobangCore", "MyGobangCore\MyGobangCore.csproj", "{FEF6C06F-CDFD-4F28-B396-23FE8E27441E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24796698-6C6D-421C-8843-B4FE2CAF673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24796698-6C6D-421C-8843-B4FE2CAF673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24796698-6C6D-421C-8843-B4FE2CAF673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24796698-6C6D-421C-8843-B4FE2CAF673D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF6C06F-CDFD-4F28-B396-23FE8E27441E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF6C06F-CDFD-4F28-B396-23FE8E27441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF6C06F-CDFD-4F28-B396-23FE8E27441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF6C06F-CDFD-4F28-B396-23FE8E27441E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB59F39F-1A69-46AB-BD0B-CAFFCFAD9AE6}
+	EndGlobalSection
+EndGlobal
